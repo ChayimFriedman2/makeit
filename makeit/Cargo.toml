@@ -17,4 +17,4 @@ keywords = [
 ]
 
 [dependencies]
-makeit-derive = { version = "0.1.1", path = "../makeit-derive" }
+makeit-derive = { version = "0.1.2", path = "../makeit-derive" }
